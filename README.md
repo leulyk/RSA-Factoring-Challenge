@@ -29,6 +29,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
         we will only run your executable factors
 
 **Example:**
+
         julien@ubuntu:~/factors$ cat tests/test00 
         4
         12
